@@ -6,6 +6,7 @@ This is where I save my VsCode profiles
 | -------- | ---------------------------------------------------------------------- |
 | Python   | [Python_dev.code-profile](./profiles/Python_dev.code-profile?raw=true) |
 | Nuxt     | [Nuxt_dev.code-profile](./profiles/Nuxt_dev.code-profile?raw=true)     |
+| Angular  | [Angular_dev.code-profile](./profiles/Angular_dev.code-profile?raw=true)  |
 | PHP      | [PHP_dev.code-profile](./profiles/PHP_dev.code-profile?raw=true)       |
 | Docs     | [Docs.code-profile](./profiles/Docs.code-profile?raw=true)             |
 
